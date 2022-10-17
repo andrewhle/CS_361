@@ -1,0 +1,5 @@
+.container {
+  background-image: url ("../public/icons/background.jpg");
+  max-width: 1080px;
+  margin: 20px auto;
+}
